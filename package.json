@@ -1,0 +1,22 @@
+{
+  "name": "webpack-1",
+  "version": "1.0.0",
+  "description": "medium tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elorenn/what-is-webpack.git"
+  },
+  "author": "Lorena Sarasua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elorenn/what-is-webpack/issues"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.1"
+  },
+  "homepage": "https://github.com/elorenn/what-is-webpack#readme"
+}
